@@ -1,8 +1,5 @@
-# Font Awesome Workflow for Alfred 3
+# Font Awesome Workflow for Alfred 3 | Friendly for designer
 
-[![Build Status](http://img.shields.io/travis/ruedap/alfred-font-awesome-workflow.svg?style=flat-square)](https://travis-ci.org/ruedap/alfred-font-awesome-workflow)
-[![Coverage Status](http://img.shields.io/coveralls/ruedap/alfred-font-awesome-workflow/master.svg?style=flat-square)](https://coveralls.io/r/ruedap/alfred-font-awesome-workflow)
-[![Latest Version](http://img.shields.io/github/release/ruedap/alfred-font-awesome-workflow.svg?style=flat-square)](https://github.com/ruedap/alfred-font-awesome-workflow/releases)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://ruedap.mit-license.org/2015)
 
 You can incrementally search for [Font Awesome icons](https://fontawesome.com/icons?d=gallery&m=free) and paste it to front most app.
@@ -27,8 +24,8 @@ The current supported version is **Font Awesome 5.1.0 Free**. Previous versions 
 
 **Keyword** `fa`: Search through [Font Awesome icons](https://fontawesome.com/icons?d=gallery&m=free).
 
-* `Enter`: Paste class name (**for coding HTML/CSS**. e.g. `fa-arrow-circle-o-right`)
-* `Ctrl + Enter`: Paste character reference (**for designing in Photoshop, Illustrator, etc**)
+* `Enter`: Paste character name and ligatures shoud convert the letter into the correct symbol. (**for designing in Photoshop, Illustrator, etc**)
+* `Ctrl + Enter`: Paste class name (**for coding HTML/CSS**. e.g. `fa-arrow-circle-o-right`)
 * `Shift + Enter`: Paste character code (e.g. `f18e`)
 * `Command + Enter`: Open in browser (e.g. <http://fontawesome.io/icon/arrow-circle-o-right>)
 

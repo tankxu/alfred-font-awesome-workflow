@@ -120,7 +120,7 @@
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
-				<string>./faw put --name {query}</string>
+				<string>./faw put --ref {query}</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -207,7 +207,7 @@
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
-				<string>./faw put --ref {query}</string>
+				<string>./faw put --name {query}</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -347,6 +347,6 @@
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string>https://github.com/ruedap/alfred-font-awesome-workflow</string>
+	<string>https://github.com/tankxu/alfred-font-awesome-workflow</string>
 </dict>
 </plist>
